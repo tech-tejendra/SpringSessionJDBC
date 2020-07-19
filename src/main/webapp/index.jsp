@@ -15,7 +15,7 @@
 <body>
 	<div class="container">
 		<h1>Description</h1>
-		<p>This application demonstrates how to use a relational database to back your session.</p>
+		<p>This application demonstrates how to use a <font color="red" size="15">relational</font> database to back your session.</p>
 
 		<h1>Try it</h1>
 
